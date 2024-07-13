@@ -1,2 +1,0 @@
-# reactPrac
-React Practice
